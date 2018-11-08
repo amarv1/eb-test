@@ -1,0 +1,11 @@
+{
+  "name": "eb-test app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.5.2"
+  },
+  "scripts": {
+    "start": "printenv",
+  }
+}
